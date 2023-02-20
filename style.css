@@ -484,7 +484,7 @@ form
     15px;
   font-size: 16px;
   font-weight: 400;
-  color: #BFB051;
+  color: #8F4068;
   border-radius: 8px;
   background: #fff;
 }
@@ -544,7 +544,7 @@ form
 }
 .form.login
   input[type="submit"] {
-  background: #8F4068;
+  background: #251B37;
   color: #fff;
   border: none;
 }
