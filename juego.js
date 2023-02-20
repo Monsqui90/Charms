@@ -1,9 +1,9 @@
-let myList = ["No lo se",
-				"No tienes suerte",
-				"Hoy no trabajo",
-				"Mañana te atropellan",
-				"Tendras un gran día",
-				"Ganaras la lotería"
+let myList = ["Solo no puedes, con amigos sí.",
+				"Tienes 15 segundos para imaginar. Sí no se te ha ocurrido nada, a lo mejor deberías ver menos la tele.",
+				"Nunca darse por vencido y la buena suerte le seguirá",
+				"Recuerda la suerte que tienes de seguir vivo",
+				"Nunca dejes de buscar",
+				"La buena suerte no es casual, es producto del trabajo duro"
 ]
 
 let button = document.getElementsByTagName("button")[0]
